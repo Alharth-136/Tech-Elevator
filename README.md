@@ -1,2 +1,2 @@
 # Tech-Elevator
-I am a new software developer.
+My name is Alharth. I am a new software developer.
