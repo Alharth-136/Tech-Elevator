@@ -1,2 +1,2 @@
 # Tech-Elevator
-Learn coding
+I am a new software developer.
